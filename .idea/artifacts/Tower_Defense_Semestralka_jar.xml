@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tower_Defense_Semestralka:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tower_Defense_Semestralka_jar</output-path>
+    <root id="archive" name="Tower_Defense_Semestralka.jar">
+      <element id="module-output" name="Tower_Defense_Semestralka" />
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>
